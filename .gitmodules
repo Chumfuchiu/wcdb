@@ -7,3 +7,7 @@
 [submodule "zstd"]
 	path = zstd
 	url = https://github.com/facebook/zstd.git
+[submodule "docs"]
+	path = docs
+	url = git@github.com:Chumfuchiu/wcdb-docs.git
+	branch = main
